@@ -2,6 +2,7 @@ import pathlib
 import streamlit as st
 import textwrap
 
+######## Instalaciones --------------------------------
 #pip install streamlit
 #pip install IPython
 #pip install google-generativeai
